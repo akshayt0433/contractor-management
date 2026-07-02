@@ -1,7 +1,7 @@
-import Labours from "./pages/Labours";
+import AppRoutes from "./routes/AppRoutes";
 
 function App() {
-  return <Labours />;
+  return <AppRoutes />;
 }
 
 export default App;
